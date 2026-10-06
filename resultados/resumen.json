@@ -1,0 +1,16 @@
+{
+  "dispositivo": "cpu",
+  "error_verificacion_attention": 0.0,
+  "maximo_encima_diagonal_gpt2": 0.0,
+  "mejor_cabeza_coreferencia": {
+    "capa": 7,
+    "cabeza": 11,
+    "cumple_ambos": true,
+    "margen_tired": 0.21718300133943558,
+    "margen_wide": 0.5782340746372938
+  },
+  "tendencia_entropia_bert": "más concentrada",
+  "tendencia_entropia_gpt2": "más concentrada",
+  "capa_mayor_sink_gpt2": 11,
+  "mayor_sink_gpt2": 0.7795608639717102
+}
